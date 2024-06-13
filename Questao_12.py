@@ -14,4 +14,4 @@ elif inicio > fim:
     if fim - inicio == 0:
         print('Intervalo inteiro inexistente...')
     else:
-        print([k for k in range(inicio, fim, -1)])
+        print([i for i in range(inicio, fim, -1)])
