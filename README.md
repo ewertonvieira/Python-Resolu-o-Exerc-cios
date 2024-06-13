@@ -21,3 +21,31 @@ taxas de crescimento.
 
 08 - Faça um programa que leia 5 números e informe a soma e a média dos números.
 
+09 - Faça um programa que imprima na tela apenas os números ímpares entre 1 e 50.
+
+10 - Faça um programa que receba dois números inteiros e gere os números inteiros que estão no intervalo compreendido por eles.
+
+11 - Altere o programa anterior para mostrar no final a soma dos números.
+
+12 - Desenvolva um gerador de tabuada, capaz de gerar a tabuada de qualquer número inteiro entre 1 a 10. O usuário deve informar de qual numero ele deseja ver a tabuada. A saída deve ser conforme o exemplo abaixo:
+Tabuada de 5:
+* 5 X 1 = 5
+* 5 X 2 = 10
+  ...
+* 5 X 10 = 50
+
+13 - Faça um programa que peça dois números, base e expoente, calcule e mostre o primeiro número elevado ao segundo número. Não utilize a função de potência da linguagem.
+
+14 - Faça um programa que peça 10 números inteiros, calcule e mostre a quantidade de números pares e a quantidade de números ímpares.
+
+15 - A série de Fibonacci é formada pela sequência 1,1,2,3,5,8,13,21,34,55,... Faça um programa capaz de gerar a série até o n−ésimo termo.
+
+16 - A série de Fibonacci é formada pela sequência 0,1,1,2,3,5,8,13,21,34,55,... Faça um programa que gere a série até que o valor seja maior que 500.
+
+17 - Faça um programa que calcule o fatorial de um número inteiro fornecido pelo usuário. Ex.: 5!=5.4.3.2.1=120.
+
+18 - Faça um programa que, dado um conjunto de N números, determine o menor valor, o maior valor e a soma dos valores.
+
+19 - Altere o programa anterior para que ele aceite apenas números entre 0 e 1000.
+
+
