@@ -39,14 +39,13 @@ Tabuada de 5:
 14 - Faça um programa que peça 10 números inteiros, calcule e mostre a quantidade de números pares e a quantidade de números ímpares.
 
 15 - A série de Fibonacci é formada pela sequência 1,1,2,3,5,8,13,21,34,55,... Faça um programa capaz de gerar a série até o n−ésimo termo.
+modificacao: Faça um programa que gere a série até que o valor seja maior que 500.
 
-16 - A série de Fibonacci é formada pela sequência 0,1,1,2,3,5,8,13,21,34,55,... Faça um programa que gere a série até que o valor seja maior que 500.
+16 - Faça um programa que calcule o fatorial de um número inteiro fornecido pelo usuário. Ex.: 5!=5.4.3.2.1=120.
 
-17 - Faça um programa que calcule o fatorial de um número inteiro fornecido pelo usuário. Ex.: 5!=5.4.3.2.1=120.
+17 - Faça um programa que, dado um conjunto de N números, determine o menor valor, o maior valor e a soma dos valores.
 
-18 - Faça um programa que, dado um conjunto de N números, determine o menor valor, o maior valor e a soma dos valores.
-
-19 - Altere o programa anterior para que ele aceite apenas números entre 0 e 1000.
+18 - Altere o programa anterior para que ele aceite apenas números entre 0 e 1000.
 
 
 
